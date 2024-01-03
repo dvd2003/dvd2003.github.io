@@ -1,45 +1,127 @@
 {
- "storeHouse": 
-[
-{"sourceName":"🍓成人倉01","sourceUrl":"https://shorturl.at/CFWX8"},
-{"sourceName":"🍓微信公号","sourceUrl":"https://agit.ai/gk0748/gk0/raw/branch/master/lsnz.txt"},
-{"sourceName":"🌹星河软件","sourceUrl":"https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"},
-{"sourceName":"🌹维护更新","sourceUrl":"https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"},
-{"sourceName":"🌹星河仓库","sourceUrl":"https://download.kstore.space/download/2888/XB/多仓库.txt"},
-{"sourceName":"🌹网络精选","sourceUrl":"https://agit.ai/hu/hcr/raw/commit/beb954f1ae6828ab8dc86b4059cf98e6378bce3b/duo.txt"},
-{"sourceName":"🌹多多仓库","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/2.txt"},
-{"sourceName":"🌹多多精选","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/3.txt"},
-{"sourceName":"🌹星河精选","sourceUrl":"https://agit.ai/66666/mao/raw/commit/0ec2c15e9a1a0df2ae6c44b4d7d7a4083d6d6f77/00/xx/0update_yuan"},
-{"sourceName":"🌹星河测试","sourceUrl":"https://agit.ai/leroy/leroy/raw/branch/master/22.bin"},
-{"sourceName":"🌹影視倉01","sourceUrl":"https://agit.ai/ccy/v/raw/branch/master/tvbox/list.json"},
-{"sourceName":"🌹影視倉02","sourceUrl":"https://agit.ai/hu/hcr/raw/branch/master/99668.txt"},
-{"sourceName":"🌹影視倉03","sourceUrl":"https://agit.ai/gk0748/gk0/raw/branch/master/ls.txt"},
-{"sourceName":"🌹影視倉04","sourceUrl":"https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"},
-{"sourceName":"🌹影視倉05","sourceUrl":"https://agit.ai/l/l/raw/branch/master/c"},
-{"sourceName":"🌹影視倉06","sourceUrl":"https://gitcode.net/go/go/-/raw/o/ck_2.bin"},
-{"sourceName":"🌹影視倉07","sourceUrl":"https://agit.ai/66666/mao/raw/commit/0ec2c15e9a1a0df2ae6c44b4d7d7a4083d6d6f77/00/xx/0update_yuan"},  
-{"sourceName":"🌹影視倉08","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/zqk19.json"},  
-{"sourceName":"🌹影視倉09","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/1"},  
-{"sourceName":"🌹影視倉10","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/6"},  
-{"sourceName":"🌹影視倉11","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/7"},  
-{"sourceName":"🌹影視倉12","sourceUrl":"https://agit.ai/zhanghong/jyys/raw/branch/master/2"},  
-{"sourceName":"🌹影視倉13","sourceUrl":"https://agit.ai/dlee2008/66666/raw/branch/master/update_yuan.txt"},
-{"sourceName":"🌹影視倉14","sourceUrl":"https://gitcode.net/go/go/-/raw/o/ck_2.bin"}, 
-{"sourceName":"🌹影視倉15","sourceUrl":"https://agit.ai/66666/mao/raw/commit/0ec2c15e9a1a0df2ae6c44b4d7d7a4083d6d6f77/00/xx/0update_yuan"}, 
-{"sourceName":"🌹影視倉16","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/zqk19.json"}, 
-{"sourceName":"🌹影視倉17","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/1"}, 
-{"sourceName":"🌹影視倉18","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/6"}, 
-{"sourceName":"🌹影視倉19","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/7"}, 
-{"sourceName":"🌹影視倉20","sourceUrl":"https://agit.ai/l/l/raw/branch/master/a"},
-{"sourceName":"🔥影视仓库①","sourceUrl":"https://agit.ai/l/l/raw/branch/master/a"},
-{"sourceName":"🔥影视仓库②","sourceUrl":"https://agit.ai/l/l/raw/branch/master/b"},
-{"sourceName":"🔥影视仓库③","sourceUrl":"https://agit.ai/l/l/raw/branch/master/c"},
-{"sourceName":"🔥影视仓库④","sourceUrl":"https://agit.ai/l/l/raw/branch/master/d"},
-{"sourceName":"🔥影视仓库⑤","sourceUrl":"https://agit.ai/n/b/raw/branch/master/o/1.txt"},
-{"sourceName":"🔥影视仓库⑥","sourceUrl":"https://agit.ai/n/b/raw/branch/master/o/2.txt"},
-{"sourceName":"🔥影视仓库⑦","sourceUrl":"https://agit.ai/n/b/raw/branch/master/o/3.txt"},
-{"sourceName":"🔥影视仓库⑧","sourceUrl":"https://agit.ai/n/b/raw/branch/master/o/4.txt"},
-{"sourceName":"🔥影视仓库⑨","sourceUrl":"https://agit.ai/n/b/raw/branch/master/o/5.txt"},
-{"sourceName":"🔥影视仓库⑩","sourceUrl":"https://agit.ai/n/b/raw/branch/master/o/6.txt"}
+  "storeHouse": 
+  [
+        {
+         "sourceName": "🍓微信公众号🍓",
+         "sourceUrl": "https://agit.ai/gk0748/gk0/raw/branch/master/lsnz.txt"
+        },
+        {
+         "sourceName": "🌹星河软件园🌹",
+         "sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"
+        },
+        {
+         "sourceName": "🌹维护更新🌹",
+         "sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"
+        },
+        {
+         "sourceName": "🌹星河仓库🌹",
+         "sourceUrl": "https://download.kstore.space/download/2888/XB/多仓库.txt"
+        },
+        {
+         "sourceName": "🌹网络精选🌹",
+         "sourceUrl": "https://agit.ai/hu/hcr/raw/commit/beb954f1ae6828ab8dc86b4059cf98e6378bce3b/duo.txt"
+        },
+        {
+         "sourceName": "🌹多多仓库🌹",
+         "sourceUrl": "https://gitlab.com/duomv/apps/-/raw/main/2.txt"
+        },
+        {
+         "sourceName": "🌹多多精选🌹",
+         "sourceUrl": "https://gitlab.com/duomv/apps/-/raw/main/3.txt"
+        },
+        {
+         "sourceName": "🌹苹果仓库🌹",
+         "sourceUrl": "http://tv.nxog.top/api.php?id=25"
+        },
+        {
+         "sourceName": "🌹星河精选🌹",
+         "sourceUrl": "https://agit.ai/66666/mao/raw/commit/0ec2c15e9a1a0df2ae6c44b4d7d7a4083d6d6f77/00/xx/0update_yuan"
+        },
+        {
+         "sourceName": "🌹星河测试🌹",
+         "sourceUrl": "https://agit.ai/leroy/leroy/raw/branch/master/22.bin"
+        },
+        {
+         "sourceName": "🌹多多仓库3🌹",
+         "sourceUrl": "https://raw.iqiq.io/leevi0709/apps/main/3"
+        },
+        {
+        "sourceName": "🌹仓库1🌹",
+        "sourceUrl": "https://agit.ai/ccy/v/raw/branch/master/tvbox/list.json"
+        },
+        {
+        "sourceName": "🌹仓库2🌹",
+        "sourceUrl": "https://agit.ai/hu/hcr/raw/branch/master/99668.txt"
+        },
+        {
+        "sourceName": "🌹仓库4🌹",
+        "sourceUrl": "https://agit.ai/gk0748/gk0/raw/branch/master/ls.txt"
+        },
+        {
+        "sourceName": "🌹仓库5🌹",
+        "sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"
+        },
+        {
+        "sourceName": "🌹仓库6🌹",
+        "sourceUrl": "https://agit.ai/l/l/raw/branch/master/c"
+        },
+        {
+        "sourceName": "🌹仓库7🌹",
+        "sourceUrl": "https://agit.ai/l/l/raw/branch/master/a"
+        },
+        {
+        "sourceName": "🌙影视优选仓①",
+        "sourceUrl": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/a.json"
+        },
+        {
+        "sourceName": "🌙影视备用仓②",
+        "sourceUrl": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/b.json"
+        },
+        {
+        "sourceName": "🌙影视网络仓③",
+        "sourceUrl": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/c.json"
+        },
+        {
+        "sourceName": "🌙影视大咖仓④",
+        "sourceUrl": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/d.json"
+        },
+        {
+        "sourceName":"🔥影视仓库①",
+        "sourceUrl":"https://agit.ai/l/l/raw/branch/master/a"
+        },
+        {
+        "sourceName":"🔥影视仓库②",
+        "sourceUrl":"https://agit.ai/l/l/raw/branch/master/b"
+        },
+        {"sourceName":"🔥影视仓库③",
+         "sourceUrl":"https://agit.ai/l/l/raw/branch/master/c"
+        },
+        {"sourceName":"🔥影视仓库④",
+         "sourceUrl":"https://agit.ai/l/l/raw/branch/master/d"
+        },
+       {
+        "sourceName":"🔥影视仓库⑤",
+        "sourceUrl":"https://agit.ai/n/b/raw/branch/master/o/1.txt"
+       },
+       {
+        "sourceName":"🔥影视仓库⑥",
+        "sourceUrl":"https://agit.ai/n/b/raw/branch/master/o/2.txt"
+       },
+       {
+        "sourceName":"🔥影视仓库⑦",
+        "sourceUrl":"https://agit.ai/n/b/raw/branch/master/o/3.txt"
+       },
+       {
+        "sourceName":"🔥影视仓库⑧",
+        "sourceUrl":"https://agit.ai/n/b/raw/branch/master/o/4.txt"
+       },
+       {
+        "sourceName":"🔥影视仓库⑨",
+        "sourceUrl":"https://agit.ai/n/b/raw/branch/master/o/5.txt"
+       },
+       {
+        "sourceName":"🔥影视仓库⑩",
+        "sourceUrl":"https://agit.ai/n/b/raw/branch/master/o/6.txt"
+       }
   ]
 }
